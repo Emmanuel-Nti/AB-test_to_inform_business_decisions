@@ -3,8 +3,7 @@
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
-|As an analyst at a big online store. Together with the marketing department, I have compiled a list of hypotheses that may help boost revenue. 
-I need to prioritize these hypotheses, launch an A/B test, and analyze the results.| *pandas*, *matplotlib.pyplot*, *Numpy*,  *Scipy* | Practicum by Yandex |
+|As an analyst at a big online store. Together with the marketing department, I have compiled a list of hypotheses that may help boost revenue. I need to prioritize these hypotheses, launch an A/B test, and analyze the results.| *pandas*, *matplotlib.pyplot*, *Numpy*, *Scipy* | Practicum by Yandex |
 
 
 ## Description of Data
@@ -14,7 +13,7 @@ I need to prioritize these hypotheses, launch an A/B test, and analyze the resul
 **Hypothesis dataset**
 - `Hypotheses:` brief descriptions of the hypotheses
 - `Reach:` user reach, on a scale of one to ten
-- 'Impact:` impact on users, on a scale of one to ten
+- `Impact:` impact on users, on a scale of one to ten
 - `Confidence:` confidence in the hypothesis, on a scale of one to ten
 - `Effort:` the resources required to test a hypothesis, on a scale of one to ten. The higher the Effort value, the more resource-intensive the test.
 
