@@ -1,4 +1,4 @@
-# A/B Testing to Inform Business Decisions 
+# A/B Test to Inform Business Decisions 
 
 
 | Project Description | Libraries Used | Source of Data |
