@@ -29,6 +29,6 @@
 ## Libraries Used
 - Pandas 
 - Numpy 
-- matplotlib
+- Matplotlib
 - Scipy  
 
