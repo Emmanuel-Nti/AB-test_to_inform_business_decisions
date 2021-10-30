@@ -1,5 +1,5 @@
 # A/B Test to Inform Business Decisions 
-## [Project Summary]( https://emmanuel-nti.github.io/AB_test_to_inform_business_decisions/)
+## [Project Summary]( https://emmanuel-nti.github.io/AB-test_to_inform_business_decisions/)
 
 | Project Description | Libraries Used | Source of Data |
 | :---------------------- | :---------------------- | :---------------------- | 
