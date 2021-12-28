@@ -5,7 +5,7 @@
  </p>
 ## [Detailed Project Link](https://nbviewer.org/github/Emmanuel-Nti/AB-test_to_inform_business_decisions/blob/master/AB_testing_Nti.ipynb)
 
-### How I Approached the Project
+#### How I Approached the Project
 - Importation of the data and libraries
 - Preprocessed the data 
 - Prioritized Hypotheses
