@@ -25,10 +25,10 @@
 ## Recommendations
 - Stop the test, consider group B as the leader.
 - Although there is no signficant difference between the groups considering their average order size, there is statistically and significant difference in conversion between the groups, and group B's relative conversion gain is significant.
+ 
+#### Software and Tools
+![](https://img.shields.io/badge/Python-Matplotlib-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Pandas-Numpy-informational?style=flat&color=2bbc8a)
+![](https://img.shields.io/badge/Scipy-Seaborn-informational?style=flat&color=2bbc8a)
 
-## Libraries Used
-- Pandas 
-- Numpy 
-- Matplotlib
-- Scipy  
 
